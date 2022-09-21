@@ -29,4 +29,4 @@ Insert gif or link to demo
 
 Here are some related projects
 
-[The Pig Game](https://github.com/matiassingers/awesome-readme)
+[The Pig Game](https://github.com/Sukhmani-Kaur1/ThePigGame)

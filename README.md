@@ -27,6 +27,6 @@ Insert gif or link to demo
 
 ## Related
 
-Here are some related projects
+Here are some related projects:
 
 [The Pig Game](https://github.com/Sukhmani-Kaur1/ThePigGame)
